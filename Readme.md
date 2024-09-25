@@ -10,6 +10,8 @@ The basic architecture of the software is shown in the next diagram:
 
 If you want to test or modify this software you need to do the following steps.
 
+## ⚠️需要注意设备名字一般不是ttyS4，我这是ttyACM0，【你们自己查一下是什么】
+
 # Development enviorement:
 
 This software was developed using ESP-IDF which is the development environment for Espressif MCU's. The next steps will show the most compatible development set-up for this project.
